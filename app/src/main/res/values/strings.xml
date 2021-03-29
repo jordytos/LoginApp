@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="loginBtn">Login</string>
+    <string name="usernameHint">Username</string>
+    <string name="passwordHint">Password</string>
+    <string name="RegisterLink">Register Here.</string>
+</resources>
