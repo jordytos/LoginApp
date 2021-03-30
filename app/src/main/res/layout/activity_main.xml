@@ -15,7 +15,7 @@
         android:layout_alignParentTop="true"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="97dp"
-        app:srcCompat="@drawable/logo"
+        app:srcCompat="@drawable/networklogo"
         tools:ignore="ContentDescription" />
 
     <Button
@@ -66,8 +66,8 @@
         android:layout_alignParentStart="true"
         android:layout_alignParentLeft="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginStart="150dp"
-        android:layout_marginLeft="150dp"
+        android:layout_marginStart="160dp"
+        android:layout_marginLeft="160dp"
         android:layout_marginTop="30dp"
         android:text="@string/RegisterLink"
         android:textColor="#f9f9f9"
@@ -80,12 +80,10 @@
         android:layout_below="@+id/Register"
         android:layout_alignStart="@+id/imageView"
         android:layout_alignLeft="@+id/imageView"
-        android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginStart="0dp"
-        android:layout_marginLeft="0dp"
-        android:layout_marginTop="36dp"
-        android:layout_marginBottom="131dp"
+        android:layout_marginStart="2dp"
+        android:layout_marginLeft="2dp"
+        android:layout_marginTop="71dp"
         android:orientation="horizontal">
 
         <ImageView
